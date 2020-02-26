@@ -3,5 +3,6 @@ def rps_challenge(number)
     'fizz'
   else
     number
-  end 
+  end
+  
 end
